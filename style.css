@@ -1,0 +1,22 @@
+body{
+    background-color: yellow;
+}
+h1{
+    color: #e70f2f;
+    font-family: arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+h4{
+    color: green
+}
+P{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(228, 228, 237);
+    background-color: #039;
+}
+.input{
+    background-color: aqua;
+}
